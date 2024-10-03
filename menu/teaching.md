@@ -15,5 +15,5 @@ ENS Lyon, Assistant to Pascal Koiran.
 ENS Lyon, Assistant to Pascal Koiran. 
 
 ### 2019-2020
-* **Introduction to Cryptography (Bachelore and Master)**   
+* **Introduction to Cryptography (Bachelor and Master)**   
 Sharif University of Technology, Assistant to Shahram Khazaei.
