@@ -6,7 +6,7 @@ permalink: /publications
 
 <ul>
 	
-	<li><b>Fast Public-Key Silent OT and More from Constrained Naor-Reingold.</b><br> with Dung Bui, Geoffroy Couteau, Pierre Meyer, and Alain Passelègue. <br> (to appear in) EUROCRYPT 2024. <a href="https://eprint.iacr.org/2024/178">[eprint]</a> </li><br>
+	<li><b>Fast Public-Key Silent OT and More from Constrained Naor-Reingold.</b><br> with Dung Bui, Geoffroy Couteau, Pierre Meyer, and Alain Passelègue. <br> EUROCRYPT 2024. <a href="https://eprint.iacr.org/2024/178">[eprint]</a> </li><br>
 	
 	<li><b>Constrained Pseudorandom Functions from Homomorphic Secret Sharing.</b><br> with Geoffroy Couteau, Pierre Meyer, and Alain Passelègue. <br> EUROCRYPT 2023. <a href="https://eprint.iacr.org/2023/387">[eprint]</a> </li><br>
 
