@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Publications',   url: 'publications.html'}
+- {name: 'Talks',   url: 'talks.html'}
 - {name: 'Teaching',   url: 'teaching.html'}
 - {name: 'Service',   url: 'services.html'}
 #- {name: 'About',   url: 'about.html'}
