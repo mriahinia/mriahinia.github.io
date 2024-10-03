@@ -3,6 +3,14 @@ layout: default
 title: Publications
 permalink: /publications
 ---
+* **Fast Public-Key Silent OT and More from Constrained Naor-Reingold.**
+with Dung Bui, Geoffroy Couteau, Pierre Meyer, and Alain Passelègue.
+EUROCRYPT 2024.
+
+* **Constrained Pseudorandom Functions from Homomorphic Secret Sharing.**
+with Geoffroy Couteau, Pierre Meyer, and Alain Passelègue.
+EUROCRYPT 2023.
+---
 
 <ul>
 	
