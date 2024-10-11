@@ -11,6 +11,7 @@ menu:
 - {name: 'Talks',   url: 'talks.html'}
 - {name: 'Teaching',   url: 'teaching.html'}
 - {name: 'Service',   url: 'service.html'}
+- {name: 'Misc.',   url: 'misc.html'}
 #- {name: 'About',   url: 'about.html'}
 #- {name: 'Writing', url: 'writing.html'}
 #- {name: 'Contact', url: 'contact.html'}
