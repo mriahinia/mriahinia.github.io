@@ -32,7 +32,7 @@
 }
 
 .header a:hover {
-  color:black;
+  color: #5072A7;
 }
 
 .header-title a {
@@ -42,7 +42,7 @@
 }
 
 .header-subtitle {
-  color: $light-gray-color;
+  color: $dark-gray-color;
 }
 
 /*
@@ -59,7 +59,7 @@
 }
 
 .menu-content a {
-  color: $light-gray-color;
+  color: $dark-gray-color;
   font-size: 1rem;
   padding-right: 10px;
 }
