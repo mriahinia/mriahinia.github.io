@@ -43,8 +43,9 @@ a:hover {
 }
 
 img {
-  max-width: 200px;
-  max-height: auto;
+  max-width: 250px;
+  max-height: 250px;
+  object-fit: cover;
 }
 
 blockquote {
