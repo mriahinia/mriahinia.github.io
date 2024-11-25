@@ -4,6 +4,15 @@ title: Talks
 permalink: /talks
 ---
 ### 2024
+* **Séminaire ALMASTY, LIP6 - Sorbonne Université, Paris, France**   
+Fast Public-Key Silent OT and More from Constrained Naor-Reingold.   
+
+* **Séminaire ECO, Montpellier, France**   
+Fast Public-Key Silent OT and More from Constrained Naor-Reingold.   
+
+* **Crypto Day, Télécom Paris, France**   
+Fast Public-Key Silent OT and More from Constrained Naor-Reingold.   
+
 * **Eurocrypt 2024, Zurich, Switzerland**   
 Fast Public-Key Silent OT and More from Constrained Naor-Reingold.   
 
