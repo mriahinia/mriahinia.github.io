@@ -3,6 +3,10 @@ layout: default
 title: Teaching
 permalink: /teaching
 ---
+### 2024-2025
+* **Applied Cryptography (Master 1)**   
+Ecole Supérieure d'Ingénieurs Léonard de Vinci (ESILV), Assistant to Herbert Groscot. 
+
 ### 2023-2024
 * **Quantum Computer Science (Master 1)**   
 ENS Lyon, Assistant to Daniel Stilck França. 
