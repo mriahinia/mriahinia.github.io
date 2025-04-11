@@ -3,6 +3,10 @@ layout: default
 title: Talks
 permalink: /talks
 ---
+### 2025
+* **Journées Codage et Cryptographie, Pornichet, France**   
+Constrained PRFs meet Secure Computation.   
+
 ### 2024
 * **Séminaire ALMASTY, LIP6 - Sorbonne Université, Paris, France**   
 Fast Public-Key Silent OT and More from Constrained Naor-Reingold.   
