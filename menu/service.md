@@ -8,7 +8,7 @@ More coming soon!
 ### Organizing
 
 * **Decrypting Diversity Summit 2025 - Montpellier, France**   
-*A four-day hybrid event containing scientific presentations, poster sessions, panel discussions, education workshops, and diversity-related working groups sessions.* [website](https://decryptingdiversity.com/)   
+*A four-day hybrid event containing scientific presentations, poster sessions, panel discussions, education workshops, and diversity-related working groups.* [website](https://decryptingdiversity.com/)   
 
 * **WinC Workshop - affiliated to Eurocrypt 2024, Zurich, Switzerland**  
 *Discussions on diversity-related topics in cryptography community*. [website](https://www.womenincryptography.com/workshop/)
