@@ -4,6 +4,9 @@ title: Talks
 permalink: /talks
 ---
 ### 2025
+* **Journées Nationales 2025 du GDR Sécurité Informatique, Caen, France**   
+Randomness Delegation and its Connections with Secure Computation.   
+
 * **Journées Codage et Cryptographie, Pornichet, France**   
 Constrained PRFs meet Secure Computation.   
 
