@@ -3,7 +3,15 @@ layout: default
 title: Publications
 permalink: /publications
 ---
-* **Constrained Pseudorandom Functions : New Constructions and Connections with Secure Computation**  
+* **Fast Pseudorandom Correlation Functions from Sparse LPN.**  
+with Lennart Braun, Geoffroy Couteau, Kelsey Melissaris, and Elahe Sadeghi.  
+To appear in ASIACRYPT 2025. [eprint](https://eprint.iacr.org/2025/1644)
+
+* **Cryptography from Lossy Reductions: Towards OWFs from ETH, and Beyond.**  
+with Pouria Fallahpour, Alex B. Grilo, and Garazi Muguruza.  
+Preprint. [eprint](https://eprint.iacr.org/2025/778)
+
+* **Constrained Pseudorandom Functions : New Constructions and Connections with Secure Computation.**  
 *PhD Thesis*. [manuscript](https://theses.fr/2024ENSL0022)
 
 * **Fast Public-Key Silent OT and More from Constrained Naor-Reingold.**  
