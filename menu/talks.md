@@ -4,6 +4,9 @@ title: Talks
 permalink: /talks
 ---
 ### 2025
+* **Séminaire ALMASTY, LIP6 - Sorbonne Université, Paris, France**   
+Fast Pseudorandom Correlation Functions from Sparse LPN.   
+
 * **Journées Nationales 2025 du GDR Sécurité Informatique, Caen, France**   
 Randomness Delegation and its Connections with Secure Computation.   
 
