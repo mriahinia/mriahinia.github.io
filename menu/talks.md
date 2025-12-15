@@ -4,6 +4,9 @@ title: Talks
 permalink: /talks
 ---
 ### 2025
+* **Séminaire de Cryptographie de Rennes, IRISA - Rennes, France**   
+Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.   
+
 * **Séminaire ALMASTY, LIP6 - Sorbonne Université, Paris, France**   
 Fast Pseudorandom Correlation Functions from Sparse LPN.   
 
