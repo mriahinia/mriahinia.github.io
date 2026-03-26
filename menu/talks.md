@@ -3,6 +3,10 @@ layout: default
 title: Talks
 permalink: /talks
 ---
+### 2026
+* **Séminaire CANARI, IBM - Bordeaux, France**    
+Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.   
+
 ### 2025
 * **Séminaire Algorithmique, GREYC - Caen, France**   
 Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.   
