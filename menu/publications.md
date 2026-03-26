@@ -5,7 +5,7 @@ permalink: /publications
 ---
 * **Fast Pseudorandom Correlation Functions from Sparse LPN.**  
 with Lennart Braun, Geoffroy Couteau, Kelsey Melissaris, and Elahe Sadeghi.  
-To appear in ASIACRYPT 2025. [eprint](https://eprint.iacr.org/2025/1644)
+ASIACRYPT 2025. [eprint](https://eprint.iacr.org/2025/1644)
 
 * **Cryptography from Lossy Reductions: Towards OWFs from ETH, and Beyond.**  
 with Pouria Fallahpour, Alex B. Grilo, and Garazi Muguruza.  
