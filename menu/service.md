@@ -16,7 +16,7 @@ More coming soon!
 *Discussions on diversity-related topics in cryptography community*. [website](https://www.womenincryptography.com/workshop/)
 
 * **CrossFyre 2023 - affiliated to Eurocrypt 2023, Lyon, France**  
-*International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female* Young Researchers*. [website](https://sites.google.com/view/crossfyre2023)
+*International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers*. [website](https://sites.google.com/view/crossfyre2023)
 
 ### Reviewing
 - I will serve on the PC of ASIACRYPT 2026. 
