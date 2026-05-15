@@ -3,13 +3,18 @@ layout: default
 title: Publications
 permalink: /publications
 ---
-* **\[new!\] Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.**  
-with Shweta Agrawal, Kaartik Bhushan, and Geoffroy Couteau.  
-To appear in CRYPTO 2026. \[link coming soon\]  
+* **Compressed Post-Quantum Silent OT from Isogenies.**   
+with Pouria Fallahpour, and Arthur Herlédan Le Merdy.   
+To appear in SCN 2026. \[link coming soon!\]   
 
-* **\[new!\] Succinct Two-Round Two-Party Signing from PCFs.**  
+
+* **Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.**  
+with Shweta Agrawal, Kaartik Bhushan, and Geoffroy Couteau.  
+To appear in CRYPTO 2026. [eprint](https://eprint.iacr.org/2026/877)  
+
+* **Succinct Two-Round Two-Party Signing from PCFs.**  
 with Lennart Braun, Geoffroy Couteau, Kelsey Melissaris, and Elahe Sadeghi.  
-To appear in CRYPTO 2026. \[link coming soon\]
+To appear in CRYPTO 2026. \[link coming soon!\]
 
 * **Fast Pseudorandom Correlation Functions from Sparse LPN.**  
 with Lennart Braun, Geoffroy Couteau, Kelsey Melissaris, and Elahe Sadeghi.  
