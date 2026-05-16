@@ -6,7 +6,7 @@ permalink: /service
 More coming soon! 
 
 ### Organizing 
-* **(UPCOMING) WinC Workshop - affiliated to Eurocrypt 2026, Rome, Italy**    
+* **WinC Workshop - affiliated to Eurocrypt 2026, Rome, Italy**    
 *A one-day event dedicated to diversity discussions around the cryptography community.* [website](https://wainc-ec2026.sciencesconf.org/)
 
 * **Decrypting Diversity Summit 2025 - Montpellier, France**   
@@ -19,5 +19,5 @@ More coming soon!
 *International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers*. [website](https://sites.google.com/view/crossfyre2023)
 
 ### Reviewing
-- I will serve on the PC of ASIACRYPT 2026. 
+- I am serving on the program committee of ASIACRYPT 2026. 
 - (sub)reviewer for DCC, CRYPTO 2025, EUROCRYPT 2024, PKC 2024, CRYPTO 2023, PKC 2023, and ASIACRYPT 2022. 
