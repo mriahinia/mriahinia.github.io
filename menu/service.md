@@ -20,4 +20,4 @@ More coming soon!
 
 ### Reviewing
 - I am serving on the program committee of ASIACRYPT 2026. 
-- (sub)reviewer for DCC, CRYPTO 2025, EUROCRYPT 2024, PKC 2024, CRYPTO 2023, PKC 2023, and ASIACRYPT 2022. 
+- I have reviewed papers for DCC, CRYPTO 2026, EUROCRYPT 2026, CRYPTO 2025, EUROCRYPT 2024, PKC 2024, CRYPTO 2023, PKC 2023, and ASIACRYPT 2022. 
