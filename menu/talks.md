@@ -5,12 +5,12 @@ permalink: /talks
 ---
 ### 2026
 * **Séminaire CANARI, IBM - Bordeaux, France**    
-Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.   
+Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.  
+
+* **Séminaire Algorithmique, GREYC - Caen, France**   
+Post-Quantum Public-Key Pseudorandom Correlation Functions for OT. 
 
 ### 2025
-* **Séminaire Algorithmique, GREYC - Caen, France**   
-Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.   
-
 * **Séminaire de Cryptographie de Rennes, IRISA - Rennes, France**   
 Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.   
 
