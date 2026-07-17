@@ -5,7 +5,7 @@ permalink: /publications
 ---
 * **Compressed Post-Quantum Silent OT from Isogenies.**   
 with Pouria Fallahpour, and Arthur Herlédan Le Merdy.   
-To appear in SCN 2026. \[link coming soon!\]   
+To appear in SCN 2026. [eprint](https://eprint.iacr.org/2026/1444)    
 
 
 * **Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.**  
