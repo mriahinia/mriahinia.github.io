@@ -4,6 +4,9 @@ title: Talks
 permalink: /talks
 ---
 ### 2026
+* **COSIC Seminar, COSIC, KU Leuven - Leuven, Belgium**   
+(Post-Quantum) Pseudorandom Correlation Functions for Oblivious Transfer: A Constrained-PRF Approach.   
+
 * **Séminaire CANARI, IBM - Bordeaux, France**    
 Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.  
 
