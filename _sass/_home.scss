@@ -55,6 +55,19 @@
   background-color: $pagination-button-color;
 }
 
-img {
+.home-avatar {
+  float: left;
+  width: 160px;
+  height: 200px;
+  object-fit: cover;
   border-radius: 50%;
+  margin: 0 25px 15px 0;
+}
+
+@media (max-width: 30em) {
+  .home-avatar {
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+  }
 }
