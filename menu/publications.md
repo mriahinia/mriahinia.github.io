@@ -14,7 +14,7 @@ To appear in CRYPTO 2026. [eprint](https://eprint.iacr.org/2026/877)
 
 * **Succinct Two-Round Two-Party Signing from PCFs.**  
 with Lennart Braun, Geoffroy Couteau, Kelsey Melissaris, and Elahe Sadeghi.  
-To appear in CRYPTO 2026. \[link coming soon!\]
+To appear in CRYPTO 2026. [eprint](https://eprint.iacr.org/2026/1978.pdf)   
 
 * **Fast Pseudorandom Correlation Functions from Sparse LPN.**  
 with Lennart Braun, Geoffroy Couteau, Kelsey Melissaris, and Elahe Sadeghi.  
