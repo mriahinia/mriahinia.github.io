@@ -5,41 +5,41 @@ permalink: /publications
 ---
 * **Compressed Post-Quantum Silent OT from Isogenies.**   
 with Pouria Fallahpour, and Arthur Herlédan Le Merdy.   
-To appear in SCN 2026. [eprint](https://eprint.iacr.org/2026/1444)    
+To appear in SCN 2026. [\[eprint\]](https://eprint.iacr.org/2026/1444)    
 
 
 * **Post-Quantum Public-Key Pseudorandom Correlation Functions for OT.**  
 with Shweta Agrawal, Kaartik Bhushan, and Geoffroy Couteau.  
-To appear in CRYPTO 2026. [eprint](https://eprint.iacr.org/2026/877)  
+To appear in CRYPTO 2026. [\[eprint\]](https://eprint.iacr.org/2026/877)  
 
 * **Succinct Two-Round Two-Party Signing from PCFs.**  
 with Lennart Braun, Geoffroy Couteau, Kelsey Melissaris, and Elahe Sadeghi.  
-To appear in CRYPTO 2026. [eprint](https://eprint.iacr.org/2026/1978.pdf)   
+To appear in CRYPTO 2026. [\[eprint\]](https://eprint.iacr.org/2026/1978.pdf)   
 
 * **Fast Pseudorandom Correlation Functions from Sparse LPN.**  
 with Lennart Braun, Geoffroy Couteau, Kelsey Melissaris, and Elahe Sadeghi.  
-ASIACRYPT 2025. [eprint](https://eprint.iacr.org/2025/1644)
+ASIACRYPT 2025. [\[eprint\]](https://eprint.iacr.org/2025/1644)
 
 * **Amplifying Randomized Encodings & Applications**  
 with Pouria Fallahpour, Alex B. Grilo, and Garazi Muguruza.  
-Preprint. [eprint](https://eprint.iacr.org/2025/778)
+Preprint. [\[eprint\]](https://eprint.iacr.org/2025/778)
 
 * **Constrained Pseudorandom Functions : New Constructions and Connections with Secure Computation.**  
-*PhD Thesis*. [manuscript](https://theses.fr/2024ENSL0022)
+*PhD Thesis*. [\[manuscript\]](https://theses.fr/2024ENSL0022)
 
 * **Fast Public-Key Silent OT and More from Constrained Naor-Reingold.**  
 with Dung Bui, Geoffroy Couteau, Pierre Meyer, and Alain Passelègue.  
-EUROCRYPT 2024. [eprint](https://eprint.iacr.org/2024/178)
+EUROCRYPT 2024. [\[eprint\]](https://eprint.iacr.org/2024/178)
 
 * **Constrained Pseudorandom Functions from Homomorphic Secret Sharing.**  
 with Geoffroy Couteau, Pierre Meyer, and Alain Passelègue.  
-EUROCRYPT 2023. [eprint](https://eprint.iacr.org/2023/387) 
+EUROCRYPT 2023. [\[eprint\]](https://eprint.iacr.org/2023/387) 
 
 * **PointProofs, Revisited.**  
 with Benoît Libert and Alain Passelègue.  
-ASIACRYPT 2022. [HAL](https://hal.science/hal-03903981/file/asiacrypt2022-final314.pdf)
+ASIACRYPT 2022. [\[HAL\]](https://hal.science/hal-03903981/file/asiacrypt2022-final314.pdf)
 
 * **New and Improved Constructions for Partially Equivocable Public Key Encryption.**  
 with Benoît Libert and Alain Passelègue.  
-SCN 2022. [eprint](https://eprint.iacr.org/2022/1733)
+SCN 2022. [\[eprint\]](https://eprint.iacr.org/2022/1733)
 
