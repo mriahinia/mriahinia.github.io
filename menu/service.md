@@ -19,5 +19,5 @@ More coming soon!
 *International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers*. [website](https://sites.google.com/view/crossfyre2023)
 
 ### Reviewing
-- I am serving on the program committee of ASIACRYPT 2026. 
-- I have reviewed papers for DCC, CRYPTO 2026, EUROCRYPT 2026, CRYPTO 2025, EUROCRYPT 2024, PKC 2024, CRYPTO 2023, PKC 2023, and ASIACRYPT 2022. 
+- I served on the program committee of ASIACRYPT 2026. 
+- I have reviewed papers for DCC, CRYPTO 2026/2025/2023, EUROCRYPT 2026/2025/2024, PKC 2024/2023, and ASIACRYPT 2022.  
